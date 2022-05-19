@@ -65,9 +65,9 @@ header ul li a:hover{
 }
 
 .conteudo-container img{
-    width: 650px;
+    width: 500px;
     height: 100%;
-    margin: auto;
+    margin: 0;
     padding: 10px;
 
     
