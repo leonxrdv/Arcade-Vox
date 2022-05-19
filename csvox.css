@@ -77,7 +77,7 @@ header ul li a:hover{
     font-family: 'Press Start 2P', cursive;
     position: absolute;
     top:61%;
-    left:0%;
+    left: -10px;
     cursor: pointer;
     animation: blink 1s steps(5,start)infinite;
     text-decoration-color: black;
