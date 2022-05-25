@@ -9,7 +9,7 @@
 
 ul{
     list-style: none;
-    background-color: #7460aa;
+   color: white;
 
 }
 
@@ -18,7 +18,9 @@ a{
 }
 
 body{
- background-color: black;
+ background-image: url(../Downloads/Coming\ Soon_website.jpg);
+ background-size: cover;
+ background-repeat: repeat;
 }
 header{
     display: flex;
@@ -29,21 +31,21 @@ header{
 
 header ul{
     display: flex;
-    background-color: #7460aa;
+    color: white;
 }
 header ul li{
     padding: 5px;
-    background-color:aliceblue;
+    
     width: 100px;
     font-family: sans-serif;
 
 }
 
 header ul li a:hover{
-    color: #5b415a;
+    color:black;
     text-decoration: underline;
     transition: 500ms;
-    background-color:#7460aa;
+    background-color:white;
 
 }
 
